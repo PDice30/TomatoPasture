@@ -14,6 +14,10 @@ ModelImporter:
     2100012: Water
     2100014: Iron
     2100016: Material.001
+    2100018: Material.004
+    2100020: Material
+    2100022: Material.002
+    2100024: Material.003
     2300000: //RootNode
     3300000: //RootNode
     4300000: Plane
